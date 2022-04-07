@@ -2,9 +2,7 @@
 # Program Filename: driving_cost
 # Author:  Bronte McKinnis
 # Date:4/7/2022
-# Description: Takes MPG or MPGe and calculates the cost of either gas or electricity for 1
-# person and 1 year (using average miles driven values).
-# Input: MPG or MPGe and which of the units they used
+# Description: Takes MPG or MPGe and calculates the cost of either gas or electricity for 1 person and 1 year
 # Output: cost of gas in OR and CA or cost of electricity in Corvallis and at a charging station
 #######################################################################
 
